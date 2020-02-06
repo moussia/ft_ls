@@ -1,9 +1,11 @@
 # ft_ls
 
+# Description
+
 Nous devons recoder la commande ls du système.
 * Son comportement doit être identique à celui de la commands ls originale du
 système, avec les bémols suivants :
-* Parmi les nombreuses options disponibles sur la ligne de commande, nous devons réaliser les suivantes : -l, -R, -a, -r et -t.
+* Parmi les nombreuses options disponibles sur la ligne de commande, nous devons réaliser les suivantes : -l, -R, -a, -r, -t et -d.
 
 # Installation
 
