@@ -8,7 +8,8 @@ système, avec les bémols suivants :
 # Installation
 
 ```bash
-$> make 
+$> make
+$> ./ft_ls {optional argument}
 ```
 
 # Note
