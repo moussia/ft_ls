@@ -1,10 +1,15 @@
 # ft_ls
 
-Pour tout connaitre du filesystem, de la façon dont sont rangés les fichiers et répertoires,
-nous avons du codé la commande : ft_ls.
+Nous devons recoder la commande ls du système.
+* Son comportement doit être identique à celui de la commands ls originale du
+système, avec les bémols suivants :
+* Parmi les nombreuses options disponibles sur la ligne de commande, nous devons réaliser les suivantes : -l, -R, -a, -r et -t.
 
-J'ai obtenue la note de 107/100. :-)
+# Installation
 
+```bash
+$> make 
+```
 
 # Note
 
