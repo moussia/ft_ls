@@ -14,6 +14,8 @@ $> make
 $> ./ft_ls {optional argument}
 ```
 
+# Photos
+
 # Note
 
 <img width="873" alt="note" src="https://user-images.githubusercontent.com/24608242/73954997-ef31c500-4902-11ea-9139-6c5b128a04d1.png">
