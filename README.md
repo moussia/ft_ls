@@ -20,4 +20,5 @@ $> ./ft_ls {optional argument}
 
 # Note
 
-<img width="873" alt="note" src="https://user-images.githubusercontent.com/24608242/73954997-ef31c500-4902-11ea-9139-6c5b128a04d1.png">
+<img width="226" alt="Capture d’écran 2020-02-18 à 17 03 27" src="https://user-images.githubusercontent.com/24608242/74753593-a10cb200-5270-11ea-8ea6-ded5458c912d.png">
+
